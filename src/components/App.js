@@ -20,3 +20,4 @@ function App() {
 }
 
 export default App;
+//GDC #2 2.6.23
